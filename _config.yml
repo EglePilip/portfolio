@@ -33,7 +33,6 @@ socials:
 
 # build settings
 markdown: kramdown
-theme: forty-jekyll-theme
 
 sass:
   style: compressed
